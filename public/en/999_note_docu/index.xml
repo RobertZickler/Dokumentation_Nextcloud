@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hints for the docu on Nextcloud Documentation</title>
+    <link>https://doc.nextcloud.tu-dresden.de/en/999_note_docu/</link>
+    <description>Recent content in Hints for the docu on Nextcloud Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 08 Jun 2021 14:10:46 +0200</lastBuildDate><atom:link href="https://doc.nextcloud.tu-dresden.de/en/999_note_docu/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

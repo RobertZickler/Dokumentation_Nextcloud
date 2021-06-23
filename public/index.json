@@ -1,0 +1,50 @@
+[
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/999_note_docu/01_second_layer/",
+	"title": "Zweite Ebene",
+	"tags": [],
+	"description": "",
+	"content": "DEF\n"
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/01_why/",
+	"title": "Warum?",
+	"tags": [],
+	"description": "",
+	"content": "Warum? Wieso? Weshalb? "
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/02_first_steps/",
+	"title": "Erste Schritte?",
+	"tags": [],
+	"description": "",
+	"content": "Erste Schritte - Wie kann Nextcloud genutzt werden? Nextcloud-Login mit ZIH-Account "
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/999_note_docu/",
+	"title": "Hinweise für die Doku",
+	"tags": [],
+	"description": "",
+	"content": "Hinweise für die Doku Texte werden unter /content eingefügt. Jeder Text wird auch auf Englisch in \u0026ldquo;_index.en.md\u0026rdquo; bereitgestellt. Ordnernamen nach gewünschter Reihenfolge im Menü Format XX_Content_in_English. \u0026ldquo;XX\u0026rdquo; steht für die Reihenfolge im Menü beginnend bei 01. Hat so noch keine Aussage über die tatsächliche Anordnung. Diese wird id der _index.md- bzw. _index.en.md-Datei festgelegt. In der Front Matter wird dies mit dem Parameter \u0026ldquo;weight\u0026rdquo; festgelegt.\nÜ1 Ü2 Ü3 https://learn.netlify.app/en/\n"
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/",
+	"title": "Nextcloud an der TU Dresden",
+	"tags": [],
+	"description": "",
+	"content": "Nextcloud an der TU Dresden .Page.Title {{.title | markdownify}} .Site.Language {{ $.Params.title }}\nIt was recommended by {{ $.Params.title }}.\n"
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://doc.nextcloud.tu-dresden.de/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zweite Ebene on Nextcloud Dokumentation</title>
+    <link>https://doc.nextcloud.tu-dresden.de/999_note_docu/01_second_layer/</link>
+    <description>Recent content in Zweite Ebene on Nextcloud Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 08 Jun 2021 14:11:14 +0200</lastBuildDate><atom:link href="https://doc.nextcloud.tu-dresden.de/999_note_docu/01_second_layer/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
