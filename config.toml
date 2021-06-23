@@ -1,8 +1,8 @@
-baseURL = "https://doc.nextcloud.tu-dresden.de/"
+baseURL = "https://doc.cloud.tu-dresden.de/"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
 title = "Nextcloud Dokumentation"
-theme = "learn"
+theme = "hugo-theme-learn"
 
 [params]
   themeVariant = "tud"
