@@ -3,16 +3,16 @@
 
     --MAIN-TEXT-color:#323232; /* Color of text by default */
     --MAIN-TITLES-TEXT-color: #5e5e5e; /* Color of titles h2-h3-h4-h5 */
-    --MAIN-LINK-color:#003db8; /* Color of links (old: 006ab3)*/
+    --MAIN-LINK-color:#006ab3; /* Color of links (old: 006ab3)*/
     --MAIN-LINK-HOVER-color:#006ab3; /* Color of hovered links */
     --MAIN-ANCHOR-color: #0077b3; /* color of anchors on titles */
+    /*https://tu-dresden.de/intern/services-und-hilfe/ressourcen/dateien/kommunizieren_und_publizieren/corporate-design/cd-elemente/CD-Manual_TUD_akt_Aufl_01-2018_.pdf?lang=de */
+    --MENU-HEADER-BG-color:#002557; /* Background color of menu header <-- Hausfarbe TUD (alt: 00305e)*/
+    --MENU-HEADER-BORDER-color:#274275; /*Color of menu header border (old: #006ab3)*/
 
-    --MENU-HEADER-BG-color:#002673; /* Background color of menu header <-- Hausfarbe TUD CYMK 100/70/10/50 = #002673 (alt: 00305e)*/
-    --MENU-HEADER-BORDER-color:#003db8; /*Color of menu header border (old: #006ab3)*/
-
-    --MENU-SEARCH-BG-color:#003db8; /* Search field background color (by default borders + icons) <-- Hausfarbe TUD (Key 20) CYMK 100/70/10/20 = #003db8 (alt: 006ab3)*/
-    --MENU-SEARCH-BOX-color: #006ab3; /* Override search field border color */
-    --MENU-SEARCH-BOX-ICONS-color: #a1d2fd; /* Override search field icons color */
+    --MENU-SEARCH-BG-color:#274275; /* Search field background color (by default borders + icons) <-- Hausfarbe TUD (Key 20) CYMK 100/70/10/20 = #003db8 (alt: 006ab3)*/
+    --MENU-SEARCH-BOX-color: #274275; /* Override search field border color (old: 0006ab3)*/
+    --MENU-SEARCH-BOX-ICONS-color: #002557; /* Override search field icons color (old ald2fd)*/
 
     --MENU-SECTIONS-ACTIVE-BG-color:#8a9991; /* Background color of the active section and its childs <-- Hausfarbe TUD )Key 40) CYMK 10/0/5/40 = 8a9991 (old: #20272b)*/
     --MENU-SECTIONS-BG-color:#505955; /* Background color of other sections <-- Hausfarbe TUD CYMK 10/0/5/65 = #505955 (old: #252c31)*/

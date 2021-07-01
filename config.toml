@@ -1,4 +1,5 @@
-baseURL = "https://doc.cloud.tu-dresden.de/"
+#baseURL = "https://doc.cloud.tu-dresden.de/"
+baseURL = "https://172.26.120.18:1313/"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
 title = "Nextcloud Dokumentation"
